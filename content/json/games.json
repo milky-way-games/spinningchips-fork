@@ -1,1520 +1,1520 @@
 [
   {
     "title": "1",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/1/meta/apple-touch-icon.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/1",
+    "image": "https://milky-way-games.github.io/game-assets-fork/1/meta/apple-touch-icon.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/1",
     "desc": "A unique twist on 2048 where instead of adding numbers together, you divide them by two when merging. The goal is to strategically manage the board and prevent it from filling up. It requires careful planning and a different way of thinking compared to the original game."
   },
   {
     "title": "1v1 lol",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/1v1lol/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/1v1lol",
+    "image": "https://milky-way-games.github.io/game-assets-fork/1v1lol/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/1v1lol",
     "desc": "A competitive online shooter that combines battle royale mechanics with Fortnite-style building. Players engage in fast-paced 1v1 duels, constructing structures for cover while trying to eliminate their opponents. The game tests both shooting accuracy and quick-thinking building skills."
   },
   {
     "title": "1v1 Space",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/1v1space/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/1v1space",
+    "image": "https://milky-way-games.github.io/game-assets-fork/1v1space/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/1v1space",
     "desc": "An action-packed space battle game where players engage in intense 1v1 spaceship duels. Maneuver through zero-gravity arenas while dodging enemy fire and launching precise attacks. The game requires strategic movement, quick reflexes, and mastery of different weapons."
   },
   {
     "title": "10 Minutes Till Dawn",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/10-minutes-till-dawn/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/10-minutes-till-dawn",
+    "image": "https://milky-way-games.github.io/game-assets-fork/10-minutes-till-dawn/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/10-minutes-till-dawn",
     "desc": "A survival rogue-lite shooter where players must withstand waves of enemies for 10 minutes. Armed with powerful weapons and upgrades, you fight off monstrous creatures in an eerie, dark environment. Every run offers different power-ups, making each attempt a new challenge."
   },
   {
     "title": "99balls",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/99balls/99-balls-evo.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/99balls",
+    "image": "https://milky-way-games.github.io/game-assets-fork/99balls/99-balls-evo.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/99balls",
     "desc": "A fun and addictive physics-based puzzle game where you must break numbered blocks with bouncing balls. Each block requires a certain number of hits to break, and new blocks descend with every turn. Strategy comes into play as you aim carefully to clear the board before running out of space."
   },
   {
     "title": "100 Player Pong",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/100ng/100ng.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/100ng",
+    "image": "https://milky-way-games.github.io/game-assets-fork/100ng/100ng.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/100ng",
     "desc": "A wild multiplayer twist on the classic Pong game, where up to 100 players compete at once. The chaotic gameplay makes it a hilarious and unpredictable experience, as players try to keep the ball in play. Only the last remaining player can claim victory in this massive, competitive battle."
   },
   {
     "title": "2048",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/2048/2048.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/2048",
+    "image": "https://milky-way-games.github.io/game-assets-fork/2048/2048.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/2048",
     "desc": "A simple yet addictive puzzle game where players slide numbered tiles to combine them into higher numbers. The goal is to reach 2048, but the board fills up quickly, requiring strategic moves. Easy to learn but difficult to master, it challenges your ability to plan ahead."
   },
   {
     "title": "2048 Multitask",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/2048-multitask/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/2048-multitask",
+    "image": "https://milky-way-games.github.io/game-assets-fork/2048-multitask/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/2048-multitask",
     "desc": "A more challenging version of 2048 that forces players to control multiple game grids at once. As you merge tiles on one board, you must also keep an eye on the others to prevent them from filling up. It requires extreme multitasking skills and quick decision-making."
   },
   {
     "title": "9007199254740992",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/9007199254740992/logo-4.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/9007199254740992",
+    "image": "https://milky-way-games.github.io/game-assets-fork/9007199254740992/logo-4.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/9007199254740992",
     "desc": "A mind-boggling variant of 2048 where the goal is to reach the absurdly high number 9007199254740992. The game pushes the limits of both strategy and patience, requiring an extreme level of planning. It’s perfect for fans of number-based puzzles who want an ultimate challenge."
   },
   {
     "title": "A Dance of Fire And Ice",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/a-dance-of-fire-and-ice/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/a-dance-of-fire-and-ice",
+    "image": "https://milky-way-games.github.io/game-assets-fork/a-dance-of-fire-and-ice/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/a-dance-of-fire-and-ice",
     "desc": "A mesmerizing rhythm game where players guide two orbiting spheres through a path in sync with the beat. Each level presents unique rhythmic patterns that require precise timing and coordination. The game offers a beautiful mix of music and challenge, making it highly engaging."
   },
   {
     "title": "Achievement Unlocked",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/achievementunlocked/achievementunlocked.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/achievementunlocked",
+    "image": "https://milky-way-games.github.io/game-assets-fork/achievementunlocked/achievementunlocked.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/achievementunlocked",
     "desc": "A humorous platformer where the goal is to unlock as many achievements as possible. Instead of traditional objectives, the game rewards players for nearly every action they take. It's a fun, meta experience that parodies achievement-obsessed gaming culture."
   },
   {
     "title": "A Dark Room",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/adarkroom/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/adarkroom",
+    "image": "https://milky-way-games.github.io/game-assets-fork/adarkroom/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/adarkroom",
     "desc": "A minimalist text-based adventure that starts with a single action: lighting a fire. As the game progresses, it evolves into a deep strategy and resource-management experience. The eerie atmosphere and unfolding mystery make it a captivating journey."
   },
   {
     "title": "Adrenaline Challenge",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/adrenalinechallenge/adrenalinechallenge.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/adrenalinechallenge",
+    "image": "https://milky-way-games.github.io/game-assets-fork/adrenalinechallenge/adrenalinechallenge.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/adrenalinechallenge",
     "desc": "A physics-based dirt bike game where players navigate tricky terrain with precise movements. The challenge is to control the bike’s balance while pulling off flips and stunts. It’s a fun and challenging game that rewards skill and patience."
   },
   {
     "title": "Adventure Drivers",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/adventure-drivers/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/adventure-drivers",
+    "image": "https://milky-way-games.github.io/game-assets-fork/adventure-drivers/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/adventure-drivers",
     "desc": "A fast-paced racing game set in exotic locations filled with obstacles, boosts, and power-ups. Players can upgrade their cars and compete in thrilling races to become the ultimate champion. The colorful graphics and engaging mechanics make it a fun arcade-style experience."
   },
   {
     "title": "Ages of Conflict",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/ages-of-conflict/splash.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/ages-of-conflict",
+    "image": "https://milky-way-games.github.io/game-assets-fork/ages-of-conflict/splash.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/ages-of-conflict",
     "desc": "A strategy game where nations battle for dominance."
   },
   {
     "title": "Alien Hominid",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/alienhominid/alienhominid.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/alienhominid",
+    "image": "https://milky-way-games.github.io/game-assets-fork/alienhominid/alienhominid.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/alienhominid",
     "desc": "A classic run-and-gun alien adventure."
   },
   {
     "title": "Align 4",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/align-4/board.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/align-4",
+    "image": "https://milky-way-games.github.io/game-assets-fork/align-4/board.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/align-4",
     "desc": "A digital version of the Connect 4 game."
   },
   {
     "title": "Amazing Rope Police",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/amazing-rope-police/splash.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/amazing-rope-police",
+    "image": "https://milky-way-games.github.io/game-assets-fork/amazing-rope-police/splash.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/amazing-rope-police",
     "desc": "A GTA-style action game with rope mechanics."
   },
   {
     "title": "Amidst the Clouds",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/amidst-the-clouds/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/amidst-the-clouds",
+    "image": "https://milky-way-games.github.io/game-assets-fork/amidst-the-clouds/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/amidst-the-clouds",
     "desc": "A beautiful puzzle platformer set in the sky."
   },
   {
     "title": "Among Us",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/among-us/red.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/among-us",
+    "image": "https://milky-way-games.github.io/game-assets-fork/among-us/red.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/among-us",
     "desc": "A social deduction game where players work together to complete tasks on a spaceship, but some are impostors. The impostors try to sabotage the mission and eliminate crewmates without being caught. Players must discuss, vote, and use deception to survive or win the game."
   },
   {
     "title": "Angry Sharks",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/angry-sharks/assets/favicon/icon-512x512.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/angry-sharks",
+    "image": "https://milky-way-games.github.io/game-assets-fork/angry-sharks/assets/favicon/icon-512x512.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/angry-sharks",
     "desc": "A thrilling underwater action game where you control a hungry shark, devouring everything in its path. Dodge dangers like toxic barrels and enemy predators while collecting power-ups to grow stronger. The fast-paced gameplay and exciting challenges make it an addictive experience."
   },
   {
     "title": "Aquapark Slides",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/aquapark-slides/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/aquapark-slides",
+    "image": "https://milky-way-games.github.io/game-assets-fork/aquapark-slides/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/aquapark-slides",
     "desc": "Race down giant water slides in this fast-paced, arcade-style game. Avoid obstacles, use boosts, and try to outmaneuver opponents to be the first to the finish line. The colorful visuals and fun mechanics make it a perfect pick-up-and-play game."
   },
   {
     "title": "Astray",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/astray/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/astray",
+    "image": "https://milky-way-games.github.io/game-assets-fork/astray/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/astray",
     "desc": "A creepy first-person horror maze game where players must navigate through a dark and eerie environment. The unsettling atmosphere and hidden dangers make every step feel intense. Will you find the way out, or get lost in the shadows?"
   },
   {
     "title": "Avalanche",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/avalanche/avalanche.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/avalanche",
+    "image": "https://milky-way-games.github.io/game-assets-fork/avalanche/avalanche.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/avalanche",
     "desc": "Run, jump, and climb to escape an ever-rising wave of deadly avalanche blocks. The game requires quick reflexes as you dodge falling obstacles while trying to reach higher ground. It’s simple yet challenging, making every run a test of survival."
   },
   {
     "title": "Awesome Tanks 2",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/awesometanks2/awesometanks2.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/awesometanks2",
+    "image": "https://milky-way-games.github.io/game-assets-fork/awesometanks2/awesometanks2.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/awesometanks2",
     "desc": "Take control of a heavily armed tank and blast through enemy bases in this action-packed shooter. Upgrade your tank’s weapons and armor to take on tougher opponents. With destructible environments and strategic gameplay, every level is an explosive battle."
   },
   {
     "title": "Backrooms",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/backrooms/img/splash.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/backrooms",
+    "image": "https://milky-way-games.github.io/game-assets-fork/backrooms/img/splash.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/backrooms",
     "desc": "A terrifying horror exploration game based on the urban legend of the Backrooms. Navigate an endless maze of yellow hallways, avoiding unseen horrors lurking in the shadows. The eerie atmosphere and unsettling sound design make for a truly spine-chilling experience."
   },
   {
     "title": "Backrooms 2D",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/backrooms-2d/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/backrooms-2d",
+    "image": "https://milky-way-games.github.io/game-assets-fork/backrooms-2d/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/backrooms-2d",
     "desc": "A pixel-art adaptation of the infamous Backrooms horror concept. Explore the endless, eerie maze while trying to avoid lurking dangers. The unsettling sound effects and limited visibility make for an intense survival experience."
   },
   {
     "title": "Bacon May Die",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/bacon-may-die/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/bacon-may-die",
+    "image": "https://milky-way-games.github.io/game-assets-fork/bacon-may-die/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/bacon-may-die",
     "desc": "A hilarious and action-packed beat 'em up where you play as a battle-ready pig. Fight off waves of enemies using melee weapons, guns, and crazy combos. The fast-paced gameplay and cartoonish style make it a fun and chaotic experience."
   },
   {
     "title": "Bad Ice Cream",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/bad-ice-cream/bad-ice-cream.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/bad-ice-cream",
+    "image": "https://milky-way-games.github.io/game-assets-fork/bad-ice-cream/bad-ice-cream.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/bad-ice-cream",
     "desc": "A fun puzzle arcade game where you control an ice cream cone collecting fruit while avoiding enemies. Use your ability to create and break ice blocks to trap enemies or clear paths. Play solo or with a friend in cooperative multiplayer mode."
   },
   {
     "title": "Bad Ice Cream 2",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/bad-ice-cream-2/bad-ice-cream-2.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/bad-ice-cream-2",
+    "image": "https://milky-way-games.github.io/game-assets-fork/bad-ice-cream-2/bad-ice-cream-2.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/bad-ice-cream-2",
     "desc": "The sequel to the hit arcade game, featuring new levels, enemies, and challenges. Freeze and unfreeze ice blocks strategically to collect fruit while dodging aggressive creatures. The cooperative multiplayer mode adds even more fun to the experience."
   },
   {
     "title": "Bad Ice Cream 3",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/bad-ice-cream-3/bad-ice-cream-3.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/bad-ice-cream-3",
+    "image": "https://milky-way-games.github.io/game-assets-fork/bad-ice-cream-3/bad-ice-cream-3.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/bad-ice-cream-3",
     "desc": "The third installment of the beloved puzzle-action series, introducing even more levels and hazards. Play alone or with a friend as you navigate icy mazes, avoiding new and returning enemies. Strategic ice-block placement remains key to success!"
   },
   {
     "title": "Baldi's Basics",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/baldis-basics/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/baldis-basics",
+    "image": "https://milky-way-games.github.io/game-assets-fork/baldis-basics/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/baldis-basics",
     "desc": "A surreal horror-education game where you must solve math problems while avoiding Baldi, a terrifying schoolteacher. The game features strange characters, eerie music, and an unsettling atmosphere. Escape the school before Baldi catches you!"
   },
   {
     "title": "Ballistic Chickens",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/ballistic-chickens/logo.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/ballistic-chickens",
+    "image": "https://milky-way-games.github.io/game-assets-fork/ballistic-chickens/logo.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/ballistic-chickens",
     "desc": "A wacky physics-based shooter where chickens battle using explosive weaponry. Aim carefully to take down enemy birds while avoiding their attacks. The humorous visuals and strategic gameplay make it a hilarious yet challenging experience."
   },
   {
     "title": "Basket Random",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/basket-random/splash.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/basket-random",
+    "image": "https://milky-way-games.github.io/game-assets-fork/basket-random/splash.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/basket-random",
     "desc": "A fun and unpredictable two-player basketball game with exaggerated physics. Each match features random courts, players, and mechanics, keeping every game fresh. Simple controls make it easy to play, but mastering the chaos is another challenge."
   },
   {
     "title": "Basketball Stars",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/basketball-stars/assets/images/basketball-stars.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/basketball-stars",
+    "image": "https://milky-way-games.github.io/game-assets-fork/basketball-stars/assets/images/basketball-stars.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/basketball-stars",
     "desc": "A fast-paced 2D basketball game where players compete in 1v1 matches. Perform flashy dunks, precise shots, and defensive moves to outplay your opponent. The smooth mechanics and competitive gameplay make it a favorite among sports game fans."
   },
   {
     "title": "Basket Bros io",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/basketbros-io/thumb.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/basketbros-io",
+    "image": "https://milky-way-games.github.io/game-assets-fork/basketbros-io/thumb.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/basketbros-io",
     "desc": "An online multiplayer basketball game with fast-paced arcade action. Players can jump, dunk, and block shots while facing off against opponents worldwide. The game’s fun animations and easy controls make it a blast to play with friends."
   },
   {
     "title": "Battle For Gondor",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/battleforgondor/battleforgondor.JPG",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/battleforgondor",
+    "image": "https://milky-way-games.github.io/game-assets-fork/battleforgondor/battleforgondor.JPG",
+    "link": "https://milky-way-games.github.io/game-assets-fork/battleforgondor",
     "desc": "A strategic tower defense game where you must defend Gondor from incoming enemy waves. Upgrade your army and use powerful attacks to hold the line. Fans of strategy games will love the tactical depth and fantasy setting."
   },
   {
     "title": "Big Red Button",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/bigredbutton/bigredbutton.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/bigredbutton",
+    "image": "https://milky-way-games.github.io/game-assets-fork/bigredbutton/bigredbutton.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/bigredbutton",
     "desc": "A simple yet intriguing game that dares you to press a mysterious red button. Will you resist temptation or give in to curiosity? The game’s humor and unexpected outcomes make it surprisingly entertaining."
   },
   {
     "title": "BitLife",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/bitlife/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/bitlife",
+    "image": "https://milky-way-games.github.io/game-assets-fork/bitlife/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/bitlife",
     "desc": "A life simulation game where you make choices that shape your character’s journey from birth to death. Will you become a successful entrepreneur, a criminal mastermind, or something else entirely? Every decision leads to unique and often hilarious outcomes."
   },
   {
     "title": "Black Hole Square",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/blacholesquare/icon.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/blacholesquare",
+    "image": "https://milky-way-games.github.io/game-assets-fork/blacholesquare/icon.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/blacholesquare",
     "desc": "A minimalistic puzzle game where you guide a square through gravitational black holes. Each level presents new challenges that require strategy and precision. The simple yet addictive mechanics make it a great brain teaser."
   },
   {
     "title": "Black Knight",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/blackknight/blackknight.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/blackknight",
+    "image": "https://milky-way-games.github.io/game-assets-fork/blackknight/blackknight.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/blackknight",
     "desc": "Wield your mighty weapon as the Black Knight and smash your way through obstacles. Collect gold, complete missions, and prove your strength. This action-packed game is perfect for those who love medieval mayhem."
   },
   {
     "title": "Blockpost",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/blockpost/thumb.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/blockpost",
+    "image": "https://milky-way-games.github.io/game-assets-fork/blockpost/thumb.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/blockpost",
     "desc": "A fast-paced first-person shooter with blocky graphics and intense multiplayer battles. Customize your weapons and take down enemies in action-packed arenas. Perfect for fans of voxel-style FPS games."
   },
   {
     "title": "Bloons TD",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/bloonstd/bloonstd.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/bloonstd",
+    "image": "https://milky-way-games.github.io/game-assets-fork/bloonstd/bloonstd.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/bloonstd",
     "desc": "A classic tower defense game where you use monkey towers to pop waves of invading balloons. Strategically upgrade your defenses to survive as long as possible. Fun, addictive, and full of challenging levels!"
   },
   {
     "title": "Bloons TD 2",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/bloonstd2/bloonstd2.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/bloonstd2",
+    "image": "https://milky-way-games.github.io/game-assets-fork/bloonstd2/bloonstd2.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/bloonstd2",
     "desc": "The sequel to the popular Bloons TD, featuring more towers, more levels, and even tougher bloons to pop. Plan your defenses wisely and unlock powerful upgrades. A must-play for strategy game fans."
   },
   {
     "title": "Bloons TD 4",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/btd4/logo.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/btd4",
+    "image": "https://milky-way-games.github.io/game-assets-fork/btd4/logo.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/btd4",
     "desc": "Take on an even bigger challenge with upgraded towers and new game modes in Bloons TD 4. Battle against waves of balloons in creative and strategic ways. The fun never stops in this addictive tower defense game."
   },
   {
     "title": "Bloons TD 5",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/btd5/wogo.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/btd5",
+    "image": "https://milky-way-games.github.io/game-assets-fork/btd5/wogo.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/btd5",
     "desc": "One of the most polished and feature-packed entries in the Bloons TD series. Build powerful defenses, unlock special abilities, and take on endless waves of bloons. A perfect mix of strategy and fun."
   },
   {
     "title": "Bloxorz",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/bloxors/block.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/bloxors",
+    "image": "https://milky-way-games.github.io/game-assets-fork/bloxors/block.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/bloxors",
     "desc": "A challenging puzzle game where you must guide a block to the goal without falling off the edge. Solve tricky levels by flipping and maneuvering your way through obstacles. A great test of logic and patience."
   },
   {
     "title": "Bob The Robber 2",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/bobtherobber2/splash.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/bobtherobber2",
+    "image": "https://milky-way-games.github.io/game-assets-fork/bobtherobber2/splash.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/bobtherobber2",
     "desc": "Help Bob sneak through buildings, avoid security, and steal valuable loot. Use stealth, strategy, and gadgets to complete your missions. A fun and engaging adventure for puzzle and platformer fans."
   },
   {
     "title": "Bonk.io",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/bonkio/image.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/bonkio",
+    "image": "https://milky-way-games.github.io/game-assets-fork/bonkio/image.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/bonkio",
     "desc": "A physics-based multiplayer game where you push opponents off the map to win. Customize your character, play in different arenas, and use smart movement to stay alive. Simple but highly competitive!"
   },
   {
     "title": "Box Head 2 Play",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/boxhead2play/boxhead2play.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/boxhead2play",
+    "image": "https://milky-way-games.github.io/game-assets-fork/boxhead2play/boxhead2play.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/boxhead2play",
     "desc": "An action-packed zombie shooter with multiplayer and co-op modes. Take down waves of the undead using powerful weapons and strategic positioning. Fast-paced and fun for solo or multiplayer battles!"
   },
   {
     "title": "Breaking The Bank",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/breakingthebank/breakingthebank.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/breakingthebank",
+    "image": "https://milky-way-games.github.io/game-assets-fork/breakingthebank/breakingthebank.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/breakingthebank",
     "desc": "The first game in the Henry Stickmin series, where you choose different ways to break into a bank. Each choice leads to hilarious failures or a successful heist. A fun and quirky interactive story."
   },
   {
     "title": "Big Tower Tiny Square",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/btts/images.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/btts",
+    "image": "https://milky-way-games.github.io/game-assets-fork/btts/images.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/btts",
     "desc": "A tough platformer where you guide a tiny square up a massive tower filled with traps. Precise jumps and quick reflexes are key to reaching the top. Frustratingly fun and rewarding!"
   },
   {
     "title": "Burger and Frights",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/burger-and-frights/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/burger-and-frights",
+    "image": "https://milky-way-games.github.io/game-assets-fork/burger-and-frights/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/burger-and-frights",
     "desc": "A spooky horror game where you ride a bike through an eerie forest. Strange things start happening as you try to get your burger home. A short but creepy experience that keeps you on edge!"
   },
   {
     "title": "Cannon Basketball 4",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/cannon-basketball-4/img/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/cannon-basketball-4",
+    "image": "https://milky-way-games.github.io/game-assets-fork/cannon-basketball-4/img/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/cannon-basketball-4",
     "desc": "Shoot basketballs into the hoop using a cannon in this fun physics-based game. Aim carefully, solve puzzles, and clear levels with trick shots. A mix of sports and brain-teasing fun!"
   },
   {
     "title": "Canyon Defense",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/canyondefense/canyondefense.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/canyondefense",
+    "image": "https://milky-way-games.github.io/game-assets-fork/canyondefense/canyondefense.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/canyondefense",
     "desc": "Build defensive structures to protect your canyon from invading enemies. Place towers strategically and upgrade them to survive increasing waves. A classic tower defense game with a tactical twist."
   },
   {
     "title": "Cars Simulator",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/cars-simulator/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/cars-simulator",
+    "image": "https://milky-way-games.github.io/game-assets-fork/cars-simulator/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/cars-simulator",
     "desc": "Drive freely in a massive open world with different cars to choose from. Perform stunts, explore the map, and test your driving skills. Perfect for players who love car games and open-world fun!"
   },
   {
     "title": "Cell Machine",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/cell-machine/img/te9nDu.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/cell-machine",
+    "image": "https://milky-way-games.github.io/game-assets-fork/cell-machine/img/te9nDu.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/cell-machine",
     "desc": "A unique puzzle game where you arrange cells to create chain reactions. Experiment with different patterns to solve complex challenges. A great game for logic lovers and problem solvers."
   },
   {
     "title": "Champion Island",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/champion-island/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/champion-island",
+    "image": "https://milky-way-games.github.io/game-assets-fork/champion-island/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/champion-island",
     "desc": "A charming RPG where you compete in different sports on a magical island. Explore, take on challenges, and help villagers in this fun adventure. Inspired by classic retro games with a unique style."
   },
   {
     "title": "Champion Archer",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/championarcher/championarcher.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/championarcher",
+    "image": "https://milky-way-games.github.io/game-assets-fork/championarcher/championarcher.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/championarcher",
     "desc": "Take aim and battle against enemy archers in this intense stickman war. Upgrade your abilities and fight for survival in an action-packed archery showdown!"
   },
   {
     "title": "Checkers",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/checkers/image.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/checkers",
+    "image": "https://milky-way-games.github.io/game-assets-fork/checkers/image.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/checkers",
     "desc": "Enjoy the classic board game of Checkers, where strategy is key to capturing your opponent’s pieces. Play against the computer or challenge a friend!"
   },
   {
     "title": "Chess",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/chess/84391856-3910-4B44-AF7E-ACF1056658C2.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/chess",
+    "image": "https://milky-way-games.github.io/game-assets-fork/chess/84391856-3910-4B44-AF7E-ACF1056658C2.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/chess",
     "desc": "Put your strategic skills to the test in this timeless game of Chess. Play against an AI or take on a friend in a battle of intellect and tactics."
   },
   {
     "title": "Chill Radio",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/chill-radio/img/icon.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/chill-radio",
+    "image": "https://milky-way-games.github.io/game-assets-fork/chill-radio/img/icon.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/chill-radio",
     "desc": "Relax and unwind with Chill Radio, streaming soothing music for a peaceful experience. Perfect for studying, working, or just chilling out!"
   },
   {
     "title": "Chrome Dino",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/chrome-dino/icons/icon-256.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/chrome-dino",
+    "image": "https://milky-way-games.github.io/game-assets-fork/chrome-dino/icons/icon-256.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/chrome-dino",
     "desc": "Jump and duck your way through obstacles in this classic offline Google Chrome Dino game. How far can you run without crashing?"
   },
   {
     "title": "Circlo",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/circlo/img/icon.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/circlo",
+    "image": "https://milky-way-games.github.io/game-assets-fork/circlo/img/icon.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/circlo",
     "desc": "A mesmerizing puzzle game where you rotate circles to match colors. Relaxing, yet challenging, with a simple but addictive design!"
   },
   {
     "title": "Cluster Rush",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/cluster-rush/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/cluster-rush",
+    "image": "https://milky-way-games.github.io/game-assets-fork/cluster-rush/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/cluster-rush",
     "desc": "Leap from truck to truck in this fast-paced parkour game. Timing and precision are everything as you navigate through chaotic moving platforms!"
   },
   {
     "title": "CMM Client",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/CMM-Client/EC4B216C-B637-41A3-A3D9-79D4048DD7A3.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/CMM-Client",
+    "image": "https://milky-way-games.github.io/game-assets-fork/CMM-Client/EC4B216C-B637-41A3-A3D9-79D4048DD7A3.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/CMM-Client",
     "desc": "An all-in-one client for accessing various games and features. A great tool for gamers looking for convenience and accessibility!"
   },
   {
     "title": "CN Ping Pong",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/cnpingpong/tabletennisultimate.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/cnpingpong",
+    "image": "https://milky-way-games.github.io/game-assets-fork/cnpingpong/tabletennisultimate.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/cnpingpong",
     "desc": "Play a fun and fast-paced game of table tennis. Challenge opponents and test your reflexes in this exciting ping pong experience!"
   },
   {
     "title": "Connect 3",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/connect3/connect3.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/connect3",
+    "image": "https://milky-way-games.github.io/game-assets-fork/connect3/connect3.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/connect3",
     "desc": "A simple but addictive puzzle game where you match three or more pieces in a row. Plan your moves carefully to rack up high scores!"
   },
   {
     "title": "Cookie Clicker",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/cookie-clicker/cookie1.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/cookie-clicker",
+    "image": "https://milky-way-games.github.io/game-assets-fork/cookie-clicker/cookie1.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/cookie-clicker",
     "desc": "Click to bake cookies, then upgrade to automate your bakery. A highly addictive idle game where the goal is endless cookie production!"
   },
   {
     "title": "Core Ball",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/core-ball/pr_source.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/core-ball",
+    "image": "https://milky-way-games.github.io/game-assets-fork/core-ball/pr_source.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/core-ball",
     "desc": "A precision-based arcade game where you attach balls to a rotating core without colliding. Simple, challenging, and incredibly fun!"
   },
   {
     "title": "Craftmine",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/craftmine/images/craftmine.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/craftmine",
+    "image": "https://milky-way-games.github.io/game-assets-fork/craftmine/images/craftmine.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/craftmine",
     "desc": "Survive, explore, and craft tools in this pixelated adventure game. A mix of mining, building, and survival mechanics for creative fun!"
   },
   {
     "title": "Creative Kill Chamber",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/creativekillchamber/creativekillchamber.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/creativekillchamber",
+    "image": "https://milky-way-games.github.io/game-assets-fork/creativekillchamber/creativekillchamber.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/creativekillchamber",
     "desc": "Solve puzzles and use creative methods to escape a deadly facility. A point-and-click action game filled with intense scenarios!"
   },
   {
     "title": "Crossy Road",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/crossyroad/crossyroad.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/crossyroad",
+    "image": "https://milky-way-games.github.io/game-assets-fork/crossyroad/crossyroad.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/crossyroad",
     "desc": "Guide your character across roads, rivers, and train tracks while avoiding obstacles. A fun and addictive take on the classic Frogger!"
   },
   {
     "title": "CSGO Clicker",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/csgo-clicker/images/case1.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/csgo-clicker",
+    "image": "https://milky-way-games.github.io/game-assets-fork/csgo-clicker/images/case1.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/csgo-clicker",
     "desc": "Open cases and collect skins in this clicker game inspired by CS:GO. Upgrade, trade, and see if you can get the rarest skins!"
   },
   {
     "title": "Cut the Rope",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/ctr/logo.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/ctr",
+    "image": "https://milky-way-games.github.io/game-assets-fork/ctr/logo.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/ctr",
     "desc": "Solve physics-based puzzles to feed candy to the adorable Om Nom. Cut the ropes strategically and collect stars along the way!"
   },
   {
     "title": "Cut the Rope Holiday Gift",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/ctr-holiday/Holiday_Gift.webp",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/ctr-holiday",
+    "image": "https://milky-way-games.github.io/game-assets-fork/ctr-holiday/Holiday_Gift.webp",
+    "link": "https://milky-way-games.github.io/game-assets-fork/ctr-holiday",
     "desc": "A festive edition of Cut the Rope with holiday-themed levels. Help Om Nom get his holiday treats by solving fun and tricky puzzles!"
   },
   {
     "title": "Cut the Rope Time Travel",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/ctr-tr/logo.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/ctr-tr",
+    "image": "https://milky-way-games.github.io/game-assets-fork/ctr-tr/logo.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/ctr-tr",
     "desc": "Travel through time and meet Om Nom’s ancestors in this exciting puzzle game. Solve challenges across different historical eras!"
   },
   {
     "title": "2048 Cupcakes",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/cupcake2048/favicon.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/cupcake2048",
+    "image": "https://milky-way-games.github.io/game-assets-fork/cupcake2048/favicon.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/cupcake2048",
     "desc": "A sweet twist on the classic 2048 puzzle game! Merge delicious cupcakes to reach the ultimate treat."
   },
   {
     "title": "Dante",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/dante/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/dante",
+    "image": "https://milky-way-games.github.io/game-assets-fork/dante/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/dante",
     "desc": "Embark on a dark and thrilling adventure through the depths of the underworld in this action-packed game."
   },
   {
     "title": "Deal or No Deal",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/deal-or-no-deal/index.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/deal-or-no-deal",
+    "image": "https://milky-way-games.github.io/game-assets-fork/deal-or-no-deal/index.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/deal-or-no-deal",
     "desc": "Test your luck and negotiation skills in this exciting game show-inspired challenge. Will you take the deal?"
   },
   {
     "title": "Death Run 3D",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/death-run-3d/img/death.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/death-run-3d",
+    "image": "https://milky-way-games.github.io/game-assets-fork/death-run-3d/img/death.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/death-run-3d",
     "desc": "Dodge obstacles at high speeds in this intense first-person runner. Can you survive the death run?"
   },
   {
     "title": "Deepest Sword",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/deepest-sword/splash.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/deepest-sword",
+    "image": "https://milky-way-games.github.io/game-assets-fork/deepest-sword/splash.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/deepest-sword",
     "desc": "Venture into a mysterious dungeon with an ever-growing sword and defeat powerful foes in this puzzle-platformer."
   },
   {
     "title": "Defend the Tank",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/defend-the-tank/images/splash.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/defend-the-tank",
+    "image": "https://milky-way-games.github.io/game-assets-fork/defend-the-tank/images/splash.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/defend-the-tank",
     "desc": "Protect your tank from waves of enemies by strategically deploying troops and upgrades."
   },
   {
     "title": "Doctor Acorn 2",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/doctor-acorn2/splash.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/doctor-acorn2",
+    "image": "https://milky-way-games.github.io/game-assets-fork/doctor-acorn2/splash.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/doctor-acorn2",
     "desc": "Guide Doctor Acorn through a series of fun and challenging physics-based puzzles."
   },
   {
     "title": "Doge 2048",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/doge2048/doge1.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/doge2048",
+    "image": "https://milky-way-games.github.io/game-assets-fork/doge2048/doge1.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/doge2048",
     "desc": "Merge Doges to create the ultimate Shiba Inu in this meme-filled version of the classic 2048 game!"
   },
   {
     "title": "DogeMiner",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/DogeMiner/img/dogeminer_300x300.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/DogeMiner",
+    "image": "https://milky-way-games.github.io/game-assets-fork/DogeMiner/img/dogeminer_300x300.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/DogeMiner",
     "desc": "Mine Dogecoin and build an intergalactic empire in this fun and addictive clicker game."
   },
   {
     "title": "DogeMiner 2",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/Dogeminer2/thumb.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/Dogeminer2",
+    "image": "https://milky-way-games.github.io/game-assets-fork/Dogeminer2/thumb.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/Dogeminer2",
     "desc": "The sequel to DogeMiner! Expand your Dogecoin mining operations and explore new frontiers."
   },
   {
     "title": "Doodle Jump",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/doodle-jump/doodle.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/doodle-jump",
+    "image": "https://milky-way-games.github.io/game-assets-fork/doodle-jump/doodle.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/doodle-jump",
     "desc": "Bounce your way to the top in this classic endless jumping game. Avoid obstacles and reach new heights!"
   },
   {
     "title": "DOOMORI",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/DOOMORI/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/DOOMORI",
+    "image": "https://milky-way-games.github.io/game-assets-fork/DOOMORI/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/DOOMORI",
     "desc": "A unique crossover between DOOM and OMORI. Face terrifying monsters in a pixel-art RPG shooter!"
   },
   {
     "title": "Dragon VS Bricks",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/dragon-vs-bricks/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/dragon-vs-bricks",
+    "image": "https://milky-way-games.github.io/game-assets-fork/dragon-vs-bricks/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/dragon-vs-bricks",
     "desc": "Control a dragon and destroy bricks with powerful fireballs in this arcade-style game."
   },
   {
     "title": "Draw the Hill",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/draw-the-hill/icons/icon-512.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/draw-the-hill",
+    "image": "https://milky-way-games.github.io/game-assets-fork/draw-the-hill/icons/icon-512.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/draw-the-hill",
     "desc": "Draw paths to guide your vehicle over hills and valleys. A fun and creative physics-based game!"
   },
   {
     "title": "Drive Mad",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/drive-mad/logo.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/drive-mad",
+    "image": "https://milky-way-games.github.io/game-assets-fork/drive-mad/logo.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/drive-mad",
     "desc": "A high-speed driving game where you navigate tricky terrain and perform insane stunts!"
   },
   {
     "title": "Duke Nukem 2",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/duke-nukem-2/splash.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/duke-nukem-2",
+    "image": "https://milky-way-games.github.io/game-assets-fork/duke-nukem-2/splash.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/duke-nukem-2",
     "desc": "A classic side-scrolling shooter where you play as Duke Nukem, fighting aliens and saving Earth."
   },
   {
     "title": "Edge Surf",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/edge-surf/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/edge-surf",
+    "image": "https://milky-way-games.github.io/game-assets-fork/edge-surf/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/edge-surf",
     "desc": "A fun surfing game built into Microsoft Edge where you avoid obstacles and try to get the highest score."
   },
   {
     "title": "Edge Not Found",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/edgenotfound/edge.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/edgenotfound",
+    "image": "https://milky-way-games.github.io/game-assets-fork/edgenotfound/edge.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/edgenotfound",
     "desc": "A humorous game based on the '404 Not Found' error message."
   },
   {
     "title": "Eel Slap",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/eel-slap/eel-slap.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/eel-slap",
+    "image": "https://milky-way-games.github.io/game-assets-fork/eel-slap/eel-slap.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/eel-slap",
     "desc": "Slap people with an eel in this oddly satisfying and hilarious game."
   },
   {
     "title": "Eggy Car",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/eggycar/eggy-car.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/eggycar",
+    "image": "https://milky-way-games.github.io/game-assets-fork/eggycar/eggy-car.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/eggycar",
     "desc": "Drive a car while balancing an egg on top—don't let it fall!"
   },
   {
     "title": "Endless War 3",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/endlesswar3/endlesswar3.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/endlesswar3",
+    "image": "https://milky-way-games.github.io/game-assets-fork/endlesswar3/endlesswar3.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/endlesswar3",
     "desc": "A strategic war game where you engage in intense battles and command your troops."
   },
   {
     "title": "Eparkor",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/eparkor/icon.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/eparkor",
+    "image": "https://milky-way-games.github.io/game-assets-fork/eparkor/icon.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/eparkor",
     "desc": "Perform insane parkour moves to navigate challenging levels."
   },
   {
     "title": "Escaping the Prison",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/escapingtheprison/escapingtheprison.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/escapingtheprison",
+    "image": "https://milky-way-games.github.io/game-assets-fork/escapingtheprison/escapingtheprison.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/escapingtheprison",
     "desc": "A fun stickman adventure where you choose how to escape from prison."
   },
   {
     "title": "Evil Glitch",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/evil-glitch/evil.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/evil-glitch",
+    "image": "https://milky-way-games.github.io/game-assets-fork/evil-glitch/evil.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/evil-glitch",
     "desc": "A retro arcade shooter with a glitchy, chaotic world to fight through."
   },
   {
     "title": "Evolution",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/evolution/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/evolution",
+    "image": "https://milky-way-games.github.io/game-assets-fork/evolution/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/evolution",
     "desc": "Grow and evolve different creatures in this simulation game."
   },
   {
     "title": "Exo",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/exo/img/small.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/exo",
+    "image": "https://milky-way-games.github.io/game-assets-fork/exo/img/small.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/exo",
     "desc": "A sci-fi platformer where you explore an alien world and solve puzzles."
   },
   {
     "title": "Factory Balls",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/factoryballs/images/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/factoryballs",
+    "image": "https://milky-way-games.github.io/game-assets-fork/factoryballs/images/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/factoryballs",
     "desc": "A puzzle game where you paint and customize balls to match given patterns."
   },
   {
     "title": "Fair Squares",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/fairsquares/index.icon.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/fairsquares",
+    "image": "https://milky-way-games.github.io/game-assets-fork/fairsquares/index.icon.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/fairsquares",
     "desc": "A logic puzzle game where you must distribute colors evenly."
   },
   {
     "title": "Fake Virus",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/fake-virus/icon.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/fake-virus",
+    "image": "https://milky-way-games.github.io/game-assets-fork/fake-virus/icon.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/fake-virus",
     "desc": "A prank game that makes your screen look like it's infected with a virus."
   },
   {
     "title": "Fancy Pants Adventures",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/fancypantsadventures/fancypantsadventure.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/fancypantsadventures",
+    "image": "https://milky-way-games.github.io/game-assets-fork/fancypantsadventures/fancypantsadventure.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/fancypantsadventures",
     "desc": "A fast-paced platformer starring a stick figure with awesome pants."
   },
   {
     "title": "Fantasy Dash",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/fantasy-dash/DF24D85A-B7B5-4CF0-8194-DB6CD89C6975.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/fantasy-dash",
+    "image": "https://milky-way-games.github.io/game-assets-fork/fantasy-dash/DF24D85A-B7B5-4CF0-8194-DB6CD89C6975.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/fantasy-dash",
     "desc": "A rhythm-based platformer similar to Geometry Dash with challenging levels."
   },
   {
     "title": "Fire Boy and Water Girl in the Forest Temple",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/fireboywatergirlforesttemple/logo.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/fireboywatergirlforesttemple",
+    "image": "https://milky-way-games.github.io/game-assets-fork/fireboywatergirlforesttemple/logo.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/fireboywatergirlforesttemple",
     "desc": "A cooperative puzzle-platformer where Fire Boy and Water Girl must work together to solve levels."
   },
   {
     "title": "Flappy Plane",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/flappy_plane/E3A4179E-B8E4-4358-BDAD-45AA7637D4D7.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/flappy_plane",
+    "image": "https://milky-way-games.github.io/game-assets-fork/flappy_plane/E3A4179E-B8E4-4358-BDAD-45AA7637D4D7.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/flappy_plane",
     "desc": "A Flappy Bird-inspired game where you control a plane and navigate through obstacles."
   },
   {
     "title": "Flappy 2048",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/flappy-2048/meta/apple-touch-icon.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/flappy-2048",
+    "image": "https://milky-way-games.github.io/game-assets-fork/flappy-2048/meta/apple-touch-icon.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/flappy-2048",
     "desc": "A mashup of Flappy Bird and 2048, where you merge numbers while flying through gaps."
   },
   {
     "title": "Flappy Bird",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/flappybird/thumb.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/flappybird",
+    "image": "https://milky-way-games.github.io/game-assets-fork/flappybird/thumb.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/flappybird",
     "desc": "The original Flappy Bird game where you tap to keep your bird in the air and avoid pipes."
   },
   {
     "title": "Flash Tetris",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/flashtetris/flashtetris.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/flashtetris",
+    "image": "https://milky-way-games.github.io/game-assets-fork/flashtetris/flashtetris.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/flashtetris",
     "desc": "A browser-based version of the classic Tetris puzzle game."
   },
   {
     "title": "Fleeing the Complex",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/fleeingthecomplex/a.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/fleeingthecomplex",
+    "image": "https://milky-way-games.github.io/game-assets-fork/fleeingthecomplex/a.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/fleeingthecomplex",
     "desc": "A stickman escape game where you must make the right choices to break out of a high-security prison."
   },
   {
     "title": "Flippy Fish",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/flippy-fish/2022_10_28_0jt_Kleki.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/flippy-fish",
+    "image": "https://milky-way-games.github.io/game-assets-fork/flippy-fish/2022_10_28_0jt_Kleki.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/flippy-fish",
     "desc": "A fish-themed Flappy Bird-style game where you guide a fish through obstacles."
   },
   {
     "title": "Five Nights at Winston's",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/fnaw/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/fnaw",
+    "image": "https://milky-way-games.github.io/game-assets-fork/fnaw/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/fnaw",
     "desc": "A parody of Five Nights at Freddy’s featuring Winston, a mysterious character."
   },
   {
     "title": "Friday Night Funkin",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/fridaynightfunkin/fnf-icon.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/fridaynightfunkin",
+    "image": "https://milky-way-games.github.io/game-assets-fork/fridaynightfunkin/fnf-icon.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/fridaynightfunkin",
     "desc": "A rhythm game where you engage in rap battles against various opponents."
   },
   {
     "title": "Froggys Battle",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/froggys-battle/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/froggys-battle",
+    "image": "https://milky-way-games.github.io/game-assets-fork/froggys-battle/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/froggys-battle",
     "desc": "A fun action game where you control a frog battling enemies."
   },
   {
     "title": "Fruit Ninja",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/fruitninja/FruitNinjaTeaser.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/fruitninja",
+    "image": "https://milky-way-games.github.io/game-assets-fork/fruitninja/FruitNinjaTeaser.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/fruitninja",
     "desc": "Slice fruit with quick swipes while avoiding bombs in this classic arcade game."
   },
   {
     "title": "Frying Nemo",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/frying-nemo/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/frying-nemo",
+    "image": "https://milky-way-games.github.io/game-assets-fork/frying-nemo/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/frying-nemo",
     "desc": "A dark-humor game involving cooking fish in a frying pan."
   },
   {
     "title": "Gacha Life",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/gachalife/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/gachalife",
+    "image": "https://milky-way-games.github.io/game-assets-fork/gachalife/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/gachalife",
     "desc": "A role-playing game where you can create and customize anime-style characters."
   },
   {
     "title": "Game Inside",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/game-inside/img/display.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/game-inside",
+    "image": "https://milky-way-games.github.io/game-assets-fork/game-inside/img/display.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/game-inside",
     "desc": "An interactive puzzle adventure set within a game world."
   },
   {
     "title": "Generic Fishing Game",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/generic-fishing-game/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/generic-fishing-game",
+    "image": "https://milky-way-games.github.io/game-assets-fork/generic-fishing-game/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/generic-fishing-game",
     "desc": "A simple fishing game where you cast a line and try to catch as many fish as possible."
   },
   {
     "title": "Geo Dash",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/geodash/geoscratchicon.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/geodash",
+    "image": "https://milky-way-games.github.io/game-assets-fork/geodash/geoscratchicon.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/geodash",
     "desc": "A Scratch-based version of Geometry Dash with challenging platforming levels."
   },
   {
     "title": "George and The Printer",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/georgeandtheprinter/img/SnDTEn.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/georgeandtheprinter",
+    "image": "https://milky-way-games.github.io/game-assets-fork/georgeandtheprinter/img/SnDTEn.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/georgeandtheprinter",
     "desc": "A quirky adventure game about a man and his mysterious printer."
   },
   {
     "title": "Getaway Shootout",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/getaway-shootout/img/index.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/getaway-shootout",
+    "image": "https://milky-way-games.github.io/game-assets-fork/getaway-shootout/img/index.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/getaway-shootout",
     "desc": "A fast-paced multiplayer game where players race to escape while using crazy physics-based movement."
   },
   {
     "title": "Gimme the Airpod",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/gimme-the-airpod/img/logo.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/gimme-the-airpod",
+    "image": "https://milky-way-games.github.io/game-assets-fork/gimme-the-airpod/img/logo.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/gimme-the-airpod",
     "desc": "A funny meme-based game where you try to grab an AirPod before others do."
   },
   {
     "title": "Go Ball",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/go-ball/icon-256.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/go-ball",
+    "image": "https://milky-way-games.github.io/game-assets-fork/go-ball/icon-256.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/go-ball",
     "desc": "A rolling ball platformer where you navigate obstacles and avoid falling off the track."
   },
   {
     "title": "Goodnight",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/goodnight/goodnight.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/goodnight",
+    "image": "https://milky-way-games.github.io/game-assets-fork/goodnight/goodnight.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/goodnight",
     "desc": "A short horror game that plays with darkness and unsettling atmosphere."
   },
   {
     "title": "Google Feud",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/google-feud/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/google-feud",
+    "image": "https://milky-way-games.github.io/game-assets-fork/google-feud/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/google-feud",
     "desc": "A trivia-style game where you guess the most common Google search completions."
   },
   {
     "title": "Google Snake",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/google-snake/img/snake.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/google-snake",
+    "image": "https://milky-way-games.github.io/game-assets-fork/google-snake/img/snake.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/google-snake",
     "desc": "The classic Snake game from Google, where you guide a growing snake to eat food."
   },
   {
     "title": "Gravity Soccer",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/gravity-soccer/icon-256.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/gravity-soccer",
+    "image": "https://milky-way-games.github.io/game-assets-fork/gravity-soccer/icon-256.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/gravity-soccer",
     "desc": "A physics-based puzzle game where you must score goals by manipulating gravity."
   },
   {
     "title": "Greybox Testing",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/greybox/ico.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/greybox",
+    "image": "https://milky-way-games.github.io/game-assets-fork/greybox/ico.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/greybox",
     "desc": "A puzzle platformer that explores the mechanics of game development testing."
   },
   {
     "title": "Grindcraft",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/grindcraft/img/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/grindcraft",
+    "image": "https://milky-way-games.github.io/game-assets-fork/grindcraft/img/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/grindcraft",
     "desc": "A clicker-style game inspired by Minecraft, where you gather resources and craft items."
   },
   {
     "title": "Hackertype",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/hackertype/logo192.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/hackertype",
+    "image": "https://milky-way-games.github.io/game-assets-fork/hackertype/logo192.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/hackertype",
     "desc": "A simulation game where you type randomly to feel like a hacker."
   },
   {
     "title": "Handshakes",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/handshakes/splash.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/handshakes/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/handshakes/splash.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/handshakes/",
     "desc": "A puzzle game where you guide characters to successfully complete a handshake."
   },
   {
     "title": "Happy Hop",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/happy-hop/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/happy-hop/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/happy-hop/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/happy-hop/",
     "desc": "A colorful arcade-style jumping game where you hop between platforms to stay alive."
   },
   {
     "title": "Hardware Tycoon",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/hardware-tycoon/icon-256.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/hardware-tycoon/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/hardware-tycoon/icon-256.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/hardware-tycoon/",
     "desc": "A management simulation game where you build and sell computer hardware."
   },
   {
     "title": "Hover Bot Arena",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/hba/hoverbotarena.JPG",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/hba/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/hba/hoverbotarena.JPG",
+    "link": "https://milky-way-games.github.io/game-assets-fork/hba/",
     "desc": "A futuristic battle game where you control a hover bot and fight enemies in an arena."
   },
   {
     "title": "Helicopter",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/helicopter/helicopter.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/helicopter/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/helicopter/helicopter.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/helicopter/",
     "desc": "A classic arcade game where you pilot a helicopter through an endless series of obstacles."
   },
   {
     "title": "Hexempire",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/hexempire/hexempire.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/hexempire/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/hexempire/hexempire.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/hexempire/",
     "desc": "A turn-based strategy war game where you conquer territories and defeat opponents."
   },
   {
     "title": "HexGL",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/HexGL/icon_256.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/HexGL/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/HexGL/icon_256.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/HexGL/",
     "desc": "A futuristic racing game inspired by Wipeout and F-Zero, featuring high-speed anti-gravity vehicles."
   },
   {
     "title": "Hextris",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/hextris/images/hextris-logo.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/hextris/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/hextris/images/hextris-logo.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/hextris/",
     "desc": "A fast-paced puzzle game combining Tetris and a hexagonal playing field for a unique challenge."
   },
   {
     "title": "Hungry Lamu",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/hungry-lamu/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/hungry-lamu/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/hungry-lamu/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/hungry-lamu/",
     "desc": "A horror game disguised as a cute adventure where a llama has a sinister hunger."
   },
   {
     "title": "Ice Age Baby",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/iceagebaby/thumb.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/iceagebaby/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/iceagebaby/thumb.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/iceagebaby/",
     "desc": "A meme-based game featuring the infamous Ice Age Baby in a ridiculous adventure."
   },
   {
     "title": "Idle Breakout",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/idle-breakout/img/thumbnail.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/idle-breakout/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/idle-breakout/img/thumbnail.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/idle-breakout/",
     "desc": "An idle version of the classic Breakout game where you earn money to upgrade your breaking power."
   },
   {
     "title": "Idle Shark",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/idle-shark/img/sharkgame.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/idle-shark/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/idle-shark/img/sharkgame.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/idle-shark/",
     "desc": "A relaxing clicker game where you evolve a shark and grow its underwater empire."
   },
   {
     "title": "Impossible Quiz",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/impossiblequiz/impossiblequiz.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/impossiblequiz/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/impossiblequiz/impossiblequiz.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/impossiblequiz/",
     "desc": "A frustrating yet hilarious trivia game filled with tricky and unexpected questions."
   },
   {
     "title": "Interactive Buddy",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/interactivebuddy/interactivebuddy.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/interactivebuddy/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/interactivebuddy/interactivebuddy.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/interactivebuddy/",
     "desc": "A sandbox game where you interact with a ragdoll-like buddy using various tools and weapons."
   },
   {
     "title": "Jetpack Joyride",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/jetpack-joyride/splash.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/jetpack-joyride/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/jetpack-joyride/splash.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/jetpack-joyride/",
     "desc": "An endless runner where you control Barry Steakfries and his jetpack through a lab full of obstacles."
   },
   {
     "title": "Just Fall",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/just-fall/splash.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/just-fall/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/just-fall/splash.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/just-fall/",
     "desc": "A multiplayer battle royale game where penguins try to stay on platforms and avoid falling."
   },
   {
     "title": "Just One Boss",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/just-one-boss/pv1Gr5.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/just-one-boss",
+    "image": "https://milky-way-games.github.io/game-assets-fork/just-one-boss/pv1Gr5.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/just-one-boss",
     "desc": "A minimalist bullet-hell game where you battle a single boss with tricky attack patterns."
   },
   {
     "title": "Kitchen Gun Game",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/kitchen-gun-game/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/kitchen-gun-game/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/kitchen-gun-game/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/kitchen-gun-game/",
     "desc": "A comedic shooting game based on the viral 'Kitchen Gun' meme."
   },
   {
     "title": "Kitten Cannon",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/kittencannon/kittencannon.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/kittencannon/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/kittencannon/kittencannon.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/kittencannon/",
     "desc": "A simple yet addictive game where you launch a kitten as far as possible using a cannon."
   },
   {
     "title": "Knife Master",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/knife-master/512x512.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/knife-master",
+    "image": "https://milky-way-games.github.io/game-assets-fork/knife-master/512x512.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/knife-master",
     "desc": "A knife-throwing game where you aim to hit rotating targets without missing."
   },
   {
     "title": "Learn to Fly",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/learntofly/learntofly.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/learntofly/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/learntofly/learntofly.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/learntofly/",
     "desc": "A fun physics-based game where you help a penguin learn to fly using ramps and upgrades."
   },
   {
     "title": "Learn to Fly 2",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/learntofly2/learn-to-fly-2.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/learntofly2/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/learntofly2/learn-to-fly-2.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/learntofly2/",
     "desc": "The sequel to Learn to Fly, introducing more upgrades, challenges, and a bigger launch system."
   },
   {
     "title": "Learn to Fly 3",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/learntofly3/logo.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/learntofly3/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/learntofly3/logo.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/learntofly3/",
     "desc": "In this third installment, you launch the penguin into space using rockets and boosters."
   },
   {
     "title": "Learn to Fly Idle",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/learntoflyidle/thumbnail.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/learntoflyidle/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/learntoflyidle/thumbnail.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/learntoflyidle/",
     "desc": "A clicker-style game where you destroy icy obstacles using upgrades and powerful weapons."
   },
   {
     "title": "Level 13",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/level13/thumb.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/level13/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/level13/thumb.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/level13/",
     "desc": "A challenging puzzle game where you must escape from a mysterious room by solving tricky riddles."
   },
   {
     "title": "Madalin Stunt Cars 2",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/madalin-stunt-cars-2/img/logo.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/madalin-stunt-cars-2/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/madalin-stunt-cars-2/img/logo.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/madalin-stunt-cars-2/",
     "desc": "An open-world multiplayer car stunt game featuring high-speed racing and insane tricks."
   },
   {
     "title": "Madalin Stunt Cars 3",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/madalin-stunt-cars-3/img/index.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/madalin-stunt-cars-3/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/madalin-stunt-cars-3/img/index.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/madalin-stunt-cars-3/",
     "desc": "The third installment in the Madalin Stunt Cars series, featuring even more cars and stunts."
   },
   {
     "title": "Mario",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/mario/Theme/Mario.gif",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/mario/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/mario/Theme/Mario.gif",
+    "link": "https://milky-way-games.github.io/game-assets-fork/mario/",
     "desc": "A fan-made version of the classic Super Mario Bros platformer with nostalgic gameplay."
   },
   {
     "title": "Level 13",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/level13/thumb.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/level13/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/level13/thumb.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/level13/",
     "desc": "A challenging puzzle game where you must solve tricky levels and find your way to victory in Level 13."
   },
   {
     "title": "Marvin Spectrum",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/marvinspectrum/marvinspectrum.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/marvinspectrum/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/marvinspectrum/marvinspectrum.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/marvinspectrum/",
     "desc": "A fast-paced platformer where you must quickly switch colors to match the platforms."
   },
   {
     "title": "Matrix Rampage",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/matrixrampage/matrixrampage.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/matrixrampage/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/matrixrampage/matrixrampage.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/matrixrampage/",
     "desc": "A beat-em-up action game where you fight against waves of enemies in a Matrix-style world."
   },
   {
     "title": "Meme 2048",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/meme2048/img/ceiling_cat.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/meme2048/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/meme2048/img/ceiling_cat.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/meme2048/",
     "desc": "A meme-themed version of the classic 2048 puzzle game, featuring hilarious internet memes."
   },
   {
     "title": "Merge Round Racers",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/merge-round-racers/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/merge-round-racers/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/merge-round-racers/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/merge-round-racers/",
     "desc": "A merge-style game where you combine cars to create better vehicles and race them."
   },
   {
     "title": "Mineblocks",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/mineblocks/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/mineblocks/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/mineblocks/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/mineblocks/",
     "desc": "A 2D Minecraft-inspired sandbox game where you can mine, craft, and build anything."
   },
   {
     "title": "Minecraft 1.5",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/minecraft-15/splash.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/minecraft-15/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/minecraft-15/splash.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/minecraft-15/",
     "desc": "An older version of Minecraft (1.5) available to play in a browser."
   },
   {
     "title": "Minecraft 1.8",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/minecraft-18/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/minecraft-18/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/minecraft-18/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/minecraft-18/",
     "desc": "A browser-playable version of Minecraft 1.8, featuring classic gameplay and mechanics."
   },
   {
     "title": "Minecraft Classic",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/minecraft-classic/pack.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/minecraft-classic/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/minecraft-classic/pack.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/minecraft-classic/",
     "desc": "A nostalgic version of Minecraft that allows you to build freely in creative mode."
   },
   {
     "title": "Minecraft Beta",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/minecraftbeta/bg_main.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/minecraftbeta/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/minecraftbeta/bg_main.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/minecraftbeta/",
     "desc": "A playable beta version of Minecraft, featuring an older, simpler version of the game."
   },
   {
     "title": "Minesweeper",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/minesweeper/img/minesweeper.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/minesweeper/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/minesweeper/img/minesweeper.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/minesweeper/",
     "desc": "A classic puzzle game where you clear a grid without detonating hidden mines."
   },
   {
     "title": "Miniputt",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/miniputt/miniputt.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/miniputt/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/miniputt/miniputt.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/miniputt/",
     "desc": "A fun and challenging mini-golf game with tricky holes."
   },
   {
     "title": "Missiles",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/missiles/miss.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/missiles/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/missiles/miss.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/missiles/",
     "desc": "Dodge incoming missiles and survive as long as possible in this fast-paced game."
   },
   {
     "title": "Monkey Mart",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/monkeymart/monkey-mart.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/monkeymart/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/monkeymart/monkey-mart.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/monkeymart/",
     "desc": "Manage a supermarket as a monkey and serve customers quickly."
   },
   {
     "title": "Monster Tracks",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/monster-tracks/thumb.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/monster-tracks/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/monster-tracks/thumb.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/monster-tracks/",
     "desc": "Drive a monster truck through challenging obstacle courses."
   },
   {
     "title": "Moto X3M",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/motox3m/splash.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/motox3m/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/motox3m/splash.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/motox3m/",
     "desc": "An intense dirt bike game with tricky obstacles and stunts."
   },
   {
     "title": "Moto X3M Pool",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/motox3m-pool/splash.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/motox3m-pool/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/motox3m-pool/splash.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/motox3m-pool/",
     "desc": "Ride your bike through a crazy waterpark-themed course."
   },
   {
     "title": "Moto X3M Spooky",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/motox3m-spooky/splash.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/motox3m-spooky/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/motox3m-spooky/splash.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/motox3m-spooky/",
     "desc": "A spooky Halloween version of Moto X3M with eerie levels."
   },
   {
     "title": "Moto X3M Winter",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/motox3m-winter/download.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/motox3m-winter/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/motox3m-winter/download.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/motox3m-winter/",
     "desc": "Race your bike through icy winter landscapes filled with obstacles."
   },
   {
     "title": "Moto X3M 2",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/motox3m2/image.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/motox3m2/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/motox3m2/image.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/motox3m2/",
     "desc": "The sequel to Moto X3M with even crazier bike stunts."
   },
   {
     "title": "My Rusty Submarine",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/my-rusty-submarine/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/my-rusty-submarine/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/my-rusty-submarine/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/my-rusty-submarine/",
     "desc": "Explore the deep ocean in a rusty old submarine."
   },
   {
     "title": "N-gon",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/n-gon/bot.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/n-gon/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/n-gon/bot.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/n-gon/",
     "desc": "A fast-paced geometric shooting game with neon visuals."
   },
   {
     "title": "Ninja VS Evilcorp",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/ninjavsevilcorp/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/ninjavsevilcorp/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/ninjavsevilcorp/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/ninjavsevilcorp/",
     "desc": "Play as a ninja and fight against the evil corporation."
   },
   {
     "title": "Noob Steve Parkour",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/noob-steve-parkour/512x512.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/noob-steve-parkour/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/noob-steve-parkour/512x512.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/noob-steve-parkour/",
     "desc": "A Minecraft-inspired parkour game featuring Noob Steve."
   },
   {
     "title": "Ns Shaft",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/ns-shaft/icon.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/ns-shaft/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/ns-shaft/icon.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/ns-shaft/",
     "desc": "A classic falling game where you must navigate down a shaft."
   },
   {
     "title": "Offline Paradise",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/OfflineParadise/assets/icon.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/OfflineParadise/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/OfflineParadise/assets/icon.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/OfflineParadise/",
     "desc": "A relaxing offline game with peaceful island vibes."
   },
   {
     "title": "Om Nom Bounce",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/om-bounce/assets/icon.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/om-bounce/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/om-bounce/assets/icon.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/om-bounce/",
     "desc": "A fun physics-based bouncing game featuring Om Nom."
   },
   {
     "title": "OSU!",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/osu!/osu.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/osu!/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/osu!/osu.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/osu!/",
     "desc": "A rhythm game where you tap circles in time with the beat."
   },
   {
     "title": "Pigeon Ascent",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/pigeon-ascent/index.icon.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/pigeon-ascent/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/pigeon-ascent/index.icon.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/pigeon-ascent/",
     "desc": "Raise and train a pigeon to fight in battles and become the champion."
   },
   {
     "title": "Pixel Gun Survival",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/pixel-gun-survival/512x512.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/pixel-gun-survival/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/pixel-gun-survival/512x512.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/pixel-gun-survival/",
     "desc": "A pixelated first-person shooter with survival elements."
   },
   {
     "title": "Planet Life",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/planetlife/images/super-planetlife.gif",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/planetlife/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/planetlife/images/super-planetlife.gif",
+    "link": "https://milky-way-games.github.io/game-assets-fork/planetlife/",
     "desc": "A quirky resource management game set on a living planet."
   },
   {
     "title": "PolyBranch",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/polybranch/img/pic1.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/polybranch/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/polybranch/img/pic1.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/polybranch/",
     "desc": "A minimalist obstacle-dodging game with a neon aesthetic."
   },
   {
     "title": "Portal the Flash Version",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/portalflash/portaltheflashversion.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/portalflash/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/portalflash/portaltheflashversion.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/portalflash/",
     "desc": "A 2D puzzle-platformer inspired by the classic Portal game."
   },
   {
     "title": "Protektor",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/protektor/icon-256.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/protektor/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/protektor/icon-256.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/protektor/",
     "desc": "A tower defense game where you protect your base from invaders."
   },
   {
     "title": "Push the Square",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/push-the-square/img/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/push-the-square/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/push-the-square/img/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/push-the-square/",
     "desc": "A puzzle game where you push squares to solve mazes."
   },
   {
     "title": "Push Your Luck",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/push-your-luck/assets/img/push.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/push-your-luck/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/push-your-luck/assets/img/push.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/push-your-luck/",
     "desc": "A game of risk and reward—how far will you go?"
   },
   {
     "title": "Rabbit Samurai",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/rabbit-samurai/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/rabbit-samurai/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/rabbit-samurai/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/rabbit-samurai/",
     "desc": "A physics-based platformer starring a ninja rabbit."
   },
   {
     "title": "Resent Client",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/resent-client/splash.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/resent-client/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/resent-client/splash.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/resent-client/",
     "desc": "A mysterious adventure game with hacking elements."
   },
   {
     "title": "Retro Bowl",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/retro-bowl/img/icon.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/retro-bowl/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/retro-bowl/img/icon.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/retro-bowl/",
     "desc": "A retro-style American football simulation game."
   },
   {
     "title": "Riddle School",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/riddleschool/riddleschool.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/riddleschool/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/riddleschool/riddleschool.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/riddleschool/",
     "desc": "A point-and-click escape game set in a school."
   },
   {
     "title": "Riddle School 2",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/riddleschool2/riddleschool2.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/riddleschool2/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/riddleschool2/riddleschool2.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/riddleschool2/",
     "desc": "The sequel to Riddle School with more puzzles and humor."
   },
   {
     "title": "Riddle School 3",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/riddleschool3/riddleschool3.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/riddleschool3/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/riddleschool3/riddleschool3.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/riddleschool3/",
     "desc": "Another installment in the escape-the-school series."
   },
   {
     "title": "Riddle School 4",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/riddleschool4/riddleschool4.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/riddleschool4/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/riddleschool4/riddleschool4.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/riddleschool4/",
     "desc": "A darker twist in the Riddle School series with new surprises."
   },
   {
     "title": "Riddle School 5",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/riddleschool5/riddleschool5.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/riddleschool5/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/riddleschool5/riddleschool5.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/riddleschool5/",
     "desc": "The final chapter of the Riddle School saga—escape or be trapped forever!"
   },
   {
     "title": "Riddle Transfer",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/riddletransfer/riddletransfer.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/riddletransfer/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/riddletransfer/riddletransfer.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/riddletransfer/",
     "desc": "A spin-off of Riddle School with an intergalactic twist."
   },
   {
     "title": "Riddle Transfer 2",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/riddletransfer2/riddletransfer2.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/riddletransfer2/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/riddletransfer2/riddletransfer2.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/riddletransfer2/",
     "desc": "The conclusion to the Riddle Transfer series."
   },
   {
     "title": "Rocket League",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/Rocket-League/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/Rocket-League/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/Rocket-League/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/Rocket-League/",
     "desc": "A fast-paced car soccer game inspired by the popular Rocket League."
   },
   {
     "title": "Rocketpult",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/rocketpult/splash.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/rocketpult/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/rocketpult/splash.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/rocketpult/",
     "desc": "Launch rockets and test your aiming skills in this physics-based game."
   },
   {
     "title": "Rolling Forests",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/rolling-forests/icon.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/rolling-forests/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/rolling-forests/icon.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/rolling-forests/",
     "desc": "A relaxing rolling ball adventure set in a lush forest."
   },
   {
     "title": "Rolly Vortex",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/rolly-vortex/icon-256.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/rolly-vortex/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/rolly-vortex/icon-256.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/rolly-vortex/",
     "desc": "Dodge obstacles and roll your way through the vortex!"
   },
   {
     "title": "Rooftop Snipers",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/rooftop-snipers/img/thumb.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/rooftop-snipers/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/rooftop-snipers/img/thumb.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/rooftop-snipers/",
     "desc": "A chaotic two-player sniper battle on rooftops."
   },
   {
     "title": "Ruffle",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/ruffle/favicon-180.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/ruffle/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/ruffle/favicon-180.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/ruffle/",
     "desc": "An open-source Flash emulator for playing old Flash games."
   },
   {
     "title": "Run",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/run/run.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/run/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/run/run.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/run/",
     "desc": "A classic infinite runner game with gravity-defying mechanics."
   },
   {
     "title": "Run 2",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/Run 2/run-2-logo.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/Run 2/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/Run 2/run-2-logo.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/Run 2/",
     "desc": "The sequel to Run with new levels and characters."
   },
   {
     "title": "Runner",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/runner/loading3860.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/runner/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/runner/loading3860.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/runner/",
     "desc": "A fast-paced endless runner game with increasing difficulty."
   },
   {
     "title": "Sand Game",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/sand-game/sand-game.PNG",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/sand-game/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/sand-game/sand-game.PNG",
+    "link": "https://milky-way-games.github.io/game-assets-fork/sand-game/",
     "desc": "A sandbox physics simulation where you can mix different elements."
   },
   {
     "title": "Sandboxels",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/sandboxels/sandboxels.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/sandboxels/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/sandboxels/sandboxels.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/sandboxels/",
     "desc": "An in-depth pixel physics sandbox with elements to experiment with."
   },
   {
     "title": "Santy is Home",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/santy-is-home/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/santy-is-home/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/santy-is-home/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/santy-is-home/",
     "desc": "A horror game where you try to escape Santy’s grasp."
   },
   {
     "title": "Papa's Scooperia",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/scooperia/scoop.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/scooperia/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/scooperia/scoop.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/scooperia/",
     "desc": "Run an ice cream shop and serve customers in this fun restaurant game."
   },
   {
     "title": "Scrap Metal 3 Infernal Trap",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/scrapmetal/img/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/scrapmetal/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/scrapmetal/img/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/scrapmetal/",
     "desc": "A sandbox car game with realistic physics and stunts."
   },
   {
     "title": "Scratcharia",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/scratcharia/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/scratcharia/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/scratcharia/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/scratcharia/",
     "desc": "A fan-made Terraria clone with mining, crafting, and combat."
   },
   {
     "title": "Shuttledeck",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/shuttledeck/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/shuttledeck/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/shuttledeck/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/shuttledeck/",
     "desc": "A space-themed deck-building strategy game."
   },
   {
     "title": "Sleeping Beauty",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/sleepingbeauty/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/sleepingbeauty/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/sleepingbeauty/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/sleepingbeauty/",
     "desc": "A fairytale-themed adventure game."
   },
   {
     "title": "Slime Rush TD",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/slime-rush-td/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/slime-rush-td/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/slime-rush-td/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/slime-rush-td/",
     "desc": "Defend against waves of slimes in this tower defense game."
   },
   {
     "title": "Slope",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/slope/slope4.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/slope/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/slope/slope4.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/slope/",
     "desc": "A high-speed ball rolling game with neon aesthetics."
   },
   {
     "title": "Slope 2",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/slope-2/slope-2-logo.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/slope-2/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/slope-2/slope-2-logo.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/slope-2/",
     "desc": "The sequel to Slope, featuring more challenging tracks."
   },
   {
     "title": "Slope Ball",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/slope-ball/icon.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/slope-ball/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/slope-ball/icon.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/slope-ball/",
     "desc": "Roll your way to victory while avoiding obstacles!"
   },
   {
     "title": "Super Mario 64",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/sm64/logo.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/sm64/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/sm64/logo.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/sm64/",
     "desc": "A web version of the iconic Super Mario 64 game."
   },
   {
     "title": "Smash Karts",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/smashkarts/images/icon-512.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/smashkarts/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/smashkarts/images/icon-512.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/smashkarts/",
     "desc": "A fast-paced online kart battle game."
   },
   {
     "title": "Smoking Barrels",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/smokingbarrels/smokingbarrels.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/smokingbarrels/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/smokingbarrels/smokingbarrels.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/smokingbarrels/",
     "desc": "Test your reflexes in this Wild West dueling game."
   },
   {
     "title": "Snowbattle",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/snowbattle/img/logo.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/snowbattle/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/snowbattle/img/logo.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/snowbattle/",
     "desc": "Engage in epic online snowball fights!"
   },
   {
     "title": "Soccer Random",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/soccer-random/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/soccer-random/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/soccer-random/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/soccer-random/",
     "desc": "A wacky physics-based soccer game."
   },
   {
     "title": "Soccer Skills",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/soccer-skills/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/soccer-skills/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/soccer-skills/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/soccer-skills/",
     "desc": "A realistic and skill-based soccer game."
   },
   {
     "title": "Soldier Legend",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/soldier-legend/images/splash.jpeg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/soldier-legend/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/soldier-legend/images/splash.jpeg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/soldier-legend/",
     "desc": "Defend against waves of enemies in this action shooter."
   },
   {
     "title": "Solitaire",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/solitaire/screen-shot-win.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/solitaire/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/solitaire/screen-shot-win.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/solitaire/",
     "desc": "The classic card game in digital form."
   },
   {
     "title": "Sort the Court",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/sort-the-court/img/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/sort-the-court/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/sort-the-court/img/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/sort-the-court/",
     "desc": "Rule your kingdom by making tough decisions!"
   },
   {
     "title": "Soundboard",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/soundboard/img/mlg-favicon.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/soundboard/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/soundboard/img/mlg-favicon.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/soundboard/",
     "desc": "A collection of fun and meme sound effects."
   },
   {
     "title": "Space Company",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/space-company/whiteLogo.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/space-company/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/space-company/whiteLogo.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/space-company/",
     "desc": "A resource management game set in space."
   },
   {
     "title": "Space Garden",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/spacegarden/spl.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/spacegarden/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/spacegarden/spl.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/spacegarden/",
     "desc": "Grow and maintain a garden in space!"
   },
   {
     "title": "Spelunky",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/spelunky/assets/icon.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/spelunky/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/spelunky/assets/icon.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/spelunky/",
     "desc": "A challenging roguelike platformer full of adventure."
   },
   {
     "title": "Spinning Rat",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/spinningrat/apple-touch-icon.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/spinningrat/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/spinningrat/apple-touch-icon.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/spinningrat/",
     "desc": "A hilarious game featuring a spinning rat."
   },
   {
     "title": "Stack",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/stack/stack.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/stack/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/stack/stack.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/stack/",
     "desc": "Stack blocks as high as possible with perfect timing."
   },
   {
     "title": "Stack Bump 3D",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/stack-bump-3d/thumbnail.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/stack-bump-3d/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/stack-bump-3d/thumbnail.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/stack-bump-3d/",
     "desc": "Smash through stacked platforms in this 3D arcade game."
   },
   {
     "title": "Star Fox",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/starFox/icon.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/starFox/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/starFox/icon.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/starFox/",
     "desc": "A space shooter featuring iconic Nintendo characters."
   },
   {
     "title": "Station 141",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/station-141/icon.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/station-141/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/station-141/icon.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/station-141/",
     "desc": "A mysterious horror adventure game."
   },
   {
     "title": "Stealing The Diamond",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/stealingthediamond/stealingthediamond.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/stealingthediamond/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/stealingthediamond/stealingthediamond.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/stealingthediamond/",
     "desc": "A fun heist game from the Henry Stickmin series."
   },
   {
     "title": "Stick Duel Battle",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/stick-duel-battle/512x512.jpg",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/stick-duel-battle/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/stick-duel-battle/512x512.jpg",
+    "link": "https://milky-way-games.github.io/game-assets-fork/stick-duel-battle/",
     "desc": "A 2-player stickman fighting game."
   },
   {
     "title": "Stick Merge",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/stick-merge/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/stick-merge/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/stick-merge/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/stick-merge/",
     "desc": "Merge weapons and take down enemies!"
   },
   {
     "title": "Stickman Boost",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/stickman-boost/icon-256.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/stickman-boost/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/stickman-boost/icon-256.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/stickman-boost/",
     "desc": "A fast-paced stickman platformer."
   },
   {
     "title": "Stickman Golf",
-    "image": "https://milky-way-games.github.io/game-assets-fork/game-assets/stickman-golf/splash.png",
-    "link": "https://milky-way-games.github.io/game-assets-fork/game-assets/stickman-golf/",
+    "image": "https://milky-way-games.github.io/game-assets-fork/stickman-golf/splash.png",
+    "link": "https://milky-way-games.github.io/game-assets-fork/stickman-golf/",
     "desc": "A fun and challenging golf game with a stickman twist."
   }
 ]
